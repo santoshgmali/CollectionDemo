@@ -11,6 +11,8 @@ public class ArrayListDemo {
 		List list=new ArrayList();
 		list.add("Abc");
 		list.add("Xyz");
+		System.out.println(list);
+		
 	}
 
 }
